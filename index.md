@@ -15,6 +15,8 @@ Designed a Power BI dashboard to track employee data for the HR team, including 
 
 ### Finance And Risk Analytics
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.powerbi.com%2Fview%3Fr%3DeyJrIjoiYmRjZWQ2MTgtYWEwNC00MjdmLThkZTAtMzdiOTdlNTU0NTRhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&data=05%7C02%7Clekha.sharma%40infosys.com%7Cde6ee0f78baf48e0d11508dc3150a28b%7C63ce7d592f3e42cda8ccbe764cff5eb6%7C0%7C0%7C638439469597329191%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=Sy4ZKXTAvaDMSc6YLX%2FmkDUKg%2F2f03HjynkKBSBaSO0%3D&reserved=0)
+
 In the recent past, the industry of wealth management has seen a lot of growth. Every individual or business actively searches for opportunities to get the maximum returns. However, in most of the cases, they either lack the skills to identify the right investment opportunity, or there is a shortage of time for finding these opportunities. Hence, this gave rise to the dedicated individuals who perform this task on behalf of the investors for a commission - Portfolio managers.
 
 A portfolio manager makes investment decisions and carries out other related activities on behalf of vested investors. They work with a team of analysts and researchers, and their main objective is to realise the needs of the investor and suggest a suitable portfolio that meets all the expectations. They are responsible for establishing the best investment strategy, selecting appropriate investments along with the right allocation. However, in doing so, they face a lot of competition in the form of other portfolio managers and rival firms. Therefore, the portfolio manager has to use the available resources to provide the best solution to the investor.
@@ -22,8 +24,6 @@ A portfolio manager makes investment decisions and carries out other related act
 Consider yourself working for an associate at an investment firm that manages accounts for private clients. The role requires us to analyse a portfolio of stocks to provide consultation on investment management based on client’s requirement. 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lekhasharma1106/Finance-and-risk-analytics)
-
-### Live Dashboard: (https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.powerbi.com%2Fview%3Fr%3DeyJrIjoiYmRjZWQ2MTgtYWEwNC00MjdmLThkZTAtMzdiOTdlNTU0NTRhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&data=05%7C02%7Clekha.sharma%40infosys.com%7Cde6ee0f78baf48e0d11508dc3150a28b%7C63ce7d592f3e42cda8ccbe764cff5eb6%7C0%7C0%7C638439469597329191%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=Sy4ZKXTAvaDMSc6YLX%2FmkDUKg%2F2f03HjynkKBSBaSO0%3D&reserved=0)
 
 ---
 
