@@ -4,8 +4,6 @@
 
 ### Bike Sharing Prediction 
 
-
-
 This project is a programming project wherein we have build a multiple linear regression model for the prediction of demand for shared bikes.
 
 A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. They have contracted a consulting company to understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market.
@@ -26,3 +24,17 @@ The company wants to understand the driving factors(or driver variables) behind 
 <center><img src="assets/img/eda.jpg"/></center>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lekhasharma1106/EDA-Bank-loan)
+
+---
+## SQL- Movie Rating Case Study
+
+RSVP Movies is an Indian film production company which has produced many super-hit movies. They have usually released movies for the Indian audience but for their next project, they are planning to release a movie for the global audience in 2022.
+
+The production company wants to plan their every move analytically based on data and have approached you for help with this new project. You have been provided with the data of the movies that have been released in the past three years. You have to analyse the data set and draw meaningful insights that can help them start their new project. 
+
+As a data analyst and an SQL expert. we have to use SQL to analyse the given data and give recommendations to RSVP Movies based on the insights.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lekhasharma1106/Movie_rating_case_study)
+
+
+
