@@ -9,8 +9,7 @@ Designed a Power BI dashboard to track employee data for the HR team, including 
 
 <center><img src="assets/img/HR.png"/></center>
 
-
-### Live Dashboard: (https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.powerbi.com%2Fview%3Fr%3DeyJrIjoiZTM3N2NjZTUtNTVlMC00ZjY1LWE5ODgtY2IzNzhjNmU0Zjc0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&data=05%7C02%7Clekha.sharma%40infosys.com%7C0e1f3a499ffc49acd9cf08dc316b2130%7C63ce7d592f3e42cda8ccbe764cff5eb6%7C0%7C0%7C638439583395714164%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=YhMdyJw1%2Bj7ToQkKpAYjiS0UlJR9YQr5aXAtbtgz66Y%3D&reserved=0)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.powerbi.com%2Fview%3Fr%3DeyJrIjoiZTM3N2NjZTUtNTVlMC00ZjY1LWE5ODgtY2IzNzhjNmU0Zjc0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&data=05%7C02%7Clekha.sharma%40infosys.com%7C0e1f3a499ffc49acd9cf08dc316b2130%7C63ce7d592f3e42cda8ccbe764cff5eb6%7C0%7C0%7C638439583395714164%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=YhMdyJw1%2Bj7ToQkKpAYjiS0UlJR9YQr5aXAtbtgz66Y%3D&reserved=0)
 
 ---
 
