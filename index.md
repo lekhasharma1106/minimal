@@ -37,7 +37,7 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dips in 
 ### Business Goal
 we are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
 
-<center><img src="assets/img/bike sharing.jpg"/></center>
+<img src="assets/img/bike sharing.jpg"/>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lekhasharma1106/Bike-sharing-prediction)
 
@@ -50,7 +50,7 @@ This project aims to give us an idea of applying EDA in a real business scenario
 
 The company wants to understand the driving factors(or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment. This will ensure that the consumers capable of repaying the loan are not rejected. Identification of such applicants using EDA is the aim of this case study.
 
-<center><img src="assets/img/eda.jpg"/></center>
+<img src="assets/img/eda.jpg"/>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lekhasharma1106/EDA-Bank-loan)
 
