@@ -23,6 +23,6 @@ This project aims to give us an idea of applying EDA in a real business scenario
 ### Business Objectives
 
 The company wants to understand the driving factors(or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment. This will ensure that the consumers capable of repaying the loan are not rejected. Identification of such applicants using EDA is the aim of this case study.
-<center><img src="images/financial_modeling.jpg"/></center>
+<center><img src="assets/img/eda.jpg"/></center>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lekhasharma1106/EDA-Bank-loan)
