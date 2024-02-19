@@ -10,6 +10,10 @@ A portfolio manager makes investment decisions and carries out other related act
 
 Consider yourself working for an associate at an investment firm that manages accounts for private clients. The role requires us to analyse a portfolio of stocks to provide consultation on investment management based on client’s requirement. 
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lekhasharma1106/Finance-and-risk-analytics)
+
+---
+
 ## Machine learning
 
 ### Bike Sharing Prediction 
